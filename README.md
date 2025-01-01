@@ -1,3 +1,5 @@
+The objective of this project is to analyze NGO engagement and outreach satisfaction using survey data. It aims to perform sentiment analysis on textual responses, apply machine learning models to predict key outcomes, and visualize the results to uncover insights that can help NGOs improve their engagement strategies and participant satisfaction.
+
 File Descriptions
 NGO Response - Form responses 1.csv: This is the dataset containing responses from the survey.
 Sentiment_Analysis.py: Python script to perform sentiment analysis on the "NGO Engagement" and "Outreach Satisfaction" columns.
